@@ -1,3 +1,15 @@
+
+
+
+For all the scripts the Grid based Data is used (other than in the Trails folder) 
+
+
+
+ADTK - All has Anomaly detection tool kit applied for anomaly detection for a given gridcell data(its a practice file)
+
+ADTK-Kmean - K mean clustering applied and analysed the data(trail and error)
+
+
 LSTM-AE_W2-DN-Trainfit-1.pth  - The best-fit model, trained for  data 2005/jan 1 to 2008/June with the same model architecture of LSTM-AE-2_DnOrbits_Final.ipynb for 2 half orbits together
 
 
